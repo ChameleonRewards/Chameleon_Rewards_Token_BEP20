@@ -1,4 +1,4 @@
-Chameleon Rewards Token
+Chameleon Rewards Token v2
 
 An ERC/BEP token contract that aims to assist in automatically diversifying your crypto token holdings. By holding this token:
 
